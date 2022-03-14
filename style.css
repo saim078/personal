@@ -1,0 +1,22 @@
+.image{
+    
+    border-radius: 50%; 
+    height:200px; 
+    width: 200px;
+    
+
+}
+.info{
+    text-decoration: none;
+    font-weight: bold;
+}
+.heading{
+    font-weight: bolder;
+}
+.dabba{
+    text-align: center;
+}
+.proposal{
+    font-weight: bolder;
+    font-size: large;
+}
